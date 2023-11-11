@@ -1,0 +1,15 @@
+# pygmalion_project
+Trying to create an AI girlfriend/wife
+
+
+# geographic geolocating of restautants around my location via the google maps API
+Finding restaurants around you and displaying on the front end (some kind of google maps)
+
+# death calculator
+Based on your answers it calculates your approximate date of death.
+
+# anti-landlord platform
+Some real estate agent that gets the best deals for tenants online
+
+# flirtGPT
+An assistant that gives lines real time according to the other party's response.
