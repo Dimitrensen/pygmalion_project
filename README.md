@@ -26,4 +26,10 @@ Avatar creation??
 Voice addition
 
 # STAGE 8
+Voice recognition
+
+# STAGE 9
 Tokenization on the Blockchain and creation of characters as NFTs
+
+# STAGE 10 (Optional)
+3D print her mechanical and silicon or synth body!
